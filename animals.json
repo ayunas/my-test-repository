@@ -6,14 +6,17 @@
     "thumbnail": "https://s25.postimg.org/88ypx1fgb/lion_thumbnails.jpg",
     "image": "https://s25.postimg.org/55ot26lq7/lion_large.jpg"
     },
+
     {
     "name" : "Monkey",
     "species": "Placental Mammals",
     "description": "There are currently 264 known monkey species.Monkeys can be divided into two groups, Old World monkeys that live in Africa and Asia, and New World monkeys that live in South America.A baboon is an example of an Old World monkey, while a marmoset is an example of a New World monkey.Apes are not monkeys.Some monkeys live on the ground, while others live in trees.Different monkey species eat a variety of foods, such as fruit, insects, flowers, leaves and reptiles.Most monkeys have tails.Groups of monkeys are known as a ‘tribe’, ‘troop’ or ‘mission’.The Pygmy Marmoset is the smallest type of monkey, with adults weighing between 120 and 140 grams.The Mandrill is the largest type of monkey, with adult males weighing up to 35 kg.Capuchin monkeys are believed to be one of the smartest New World monkey species. They have the ability to use tools, learn new skills and show various signs of self-awareness.Spider monkeys get their name because of their long arms, legs and tail.The monkey is the 9th animal that appears on the Chinese zodiac, appearing as the zodiac sign in 2016.",
     "thumbnail": "https://s25.postimg.org/eqhmgjptn/monkey_thubnail.jpg",
     "image": "https://s25.postimg.org/f49ronv5r/monkey_large.jpg"
-    },{
-       "name" :"Owal",
+    },
+   {
+       "name" :"Owly",
+
       "species":"Bird",
       "description":"There are around 200 different owl species.Owls are active at night (nocturnal).A group of owls is called a parliament.Most owls hunt insects, small mammals and other birds.Some owl species hunt fish.Owls have powerful talons (claws) which help them catch and kill prey.Owls have large eyes and a flat face.Owls can turn their heads as much as 270 degrees.Owls are farsighted, meaning they can’t see things close to their eyes clearly.Owls are very quiet in flight compared to other birds of prey.The color of owl’s feathers helps them blend into their environment (camouflage).Barn owls can be recognized by their heart shaped face.",
     "thumbnail": "https://s25.postimg.org/hym3tlc3f/owal_thumbnails.jpg",
@@ -33,7 +36,7 @@
     "image": "https://s25.postimg.org/oelvs75vj/peacock_large.jpg"
     
     },{
-       "name" :"Spider",
+       "name" :"Spiderman",
       "species":"Arachnids",
       "description":"Spiders are arachnids, not insects.Other members of the arachnid family include scorpions, mites, ticks and harvestmen.Spiders have 8 legs while insects have 6.Spiders don’t have antennae while insects do.Spiders are found on every continent of the world except Antarctica.There are around 40000 different species of spider.Most spiders make silk which they use to create spider webs and capture prey.Abandoned spider webs are called cobwebs.Most spiders are harmless to humans but a few spider species, such as the black widow, can bite humans and inject venom. Deaths from spider bites are rare however.An abnormal fear of spiders is called ‘arachnophobia’.Tarantulas are large and often hairy spiders, the biggest species have been known to kill mice, lizards and birds.Most tarantula species pose no threat to humans.The largest specie of tarantula is the Goliath Birdeater.Giant Huntsman spiders have leg-spans of around 30cm (12 in).",
     "thumbnail": "https://s25.postimg.org/72upy8r5n/spider_thumbnails.jpg",
@@ -45,7 +48,7 @@
     "thumbnail": "https://s25.postimg.org/4a63ryg6z/tortoise_thumbnails.jpg",
     "image": "https://s25.postimg.org/g0auhuu7z/totoise_large.jpg"
     },{
-       "name" :"Zebra",
+       "name" :"Zebra Cobra",
       "species":"Mammal",
       "description":"Zebra are part of the equidae family along with horse and donkeys.Every zebra has a unique pattern of black and white stripes.There are a number of different theories which attempt to explain zebra’s unique stripes with most relating to camouflage.Wild zebras live in Africa.Common plain zebras have tails around half a metre in length (18 inches).Zebra crossings (pedestrian crossings) are named after the black and white stripes of zebras.Zebras run from side to side to being chased by a predator.Zebras have excellent eyesight and hearing.Zebras stand up while sleeping.Zebras eat mostly grass.The ears of a zebra show its mood.A zebra named Marty starred in the 2005 animated film Madagascar.",
     "thumbnail": "https://s25.postimg.org/qnduerh4r/zebra_thumbnails.jpg",
